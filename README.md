@@ -1,1 +1,1 @@
-This is a simple QR code structure to brush up skills.
+This is a simple QR code structure to brush up my skills.
